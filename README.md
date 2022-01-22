@@ -8,7 +8,7 @@ The game is a basic infinitely scrolling game made in Unity with C#. It features
 
 ## Images
 
-![Image of the game](GIT_Assets/octopus_game.png)
+![Image of the game](Assets/Images/octopus_game.png)
 
 ## Status and Further Developmet
 
